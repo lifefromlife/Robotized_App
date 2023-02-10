@@ -1,6 +1,6 @@
 # Robotized_App
 
-
+<img width="80%" src="https://user-images.githubusercontent.com/105138423/218001070-12e98bca-7257-43e9-9c25-2be0f6b8693d.jpg"/>
 
 1. App Inventor라는 툴 사용
 2. 블루투스 앱은 스크립트 형태로 작성 
